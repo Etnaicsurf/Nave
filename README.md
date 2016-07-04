@@ -1,3 +1,3 @@
 # Nave
 
-Juego realizado con pygame
+Juego realizado en pygame
